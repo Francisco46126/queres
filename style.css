@@ -15,10 +15,6 @@ body {
   background: linear-gradient(135deg, #ff9a9e, #fad0c4);
   font-family: 'Poppins', sans-serif;
   overflow: hidden;
-   background-image: url("https://i.postimg.cc/RZKrCSQJ/Whats-App-Image-2026-01-18-at-17-58-49.jpg");
-        
-        background-position: bottom right;
-        background-size: 120px;
 }
 
 /* FONDO ANIMADO (CORAZONES) */
@@ -163,4 +159,5 @@ button {
   100% { transform: translateX(0); }
 
 }
+
 
